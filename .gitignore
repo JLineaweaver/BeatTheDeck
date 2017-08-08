@@ -16,6 +16,11 @@
 .env.test.local
 .env.production.local
 
+# Added by Daniel to stop intellJ
+# files from being comitted
+/.idea
+
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
