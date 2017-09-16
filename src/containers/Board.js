@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CardPile from './CardPile.js';
+import CardPile from '../components/CardPile.js';
 
 class Board extends Component {
     render() {
