@@ -22,3 +22,12 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.topRow, .middleRow, .bottomRow {
+  margin-bottom: 20px;
+}
+
+.cardPile {
+  display: inline;
+  padding: 20px;
+}
